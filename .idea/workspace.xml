@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ccd2a7b-de6a-4684-ba43-906b3f6de2fb" name="Changes" comment="2 methood completed!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7ccd2a7b-de6a-4684-ba43-906b3f6de2fb" name="Changes" comment="Write printColor() method , this method printed in console Color value">
       <change beforePath="$PROJECT_DIR$/src/main/java/kz/thquiet/HomeWorkApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kz/thquiet/HomeWorkApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712726288395</updated>
       <workItem from="1712726289479" duration="431000" />
-      <workItem from="1712726749117" duration="1402000" />
+      <workItem from="1712726749117" duration="1760000" />
     </task>
     <task id="LOCAL-00001" summary="2 methood completed!">
       <option name="closed" value="true" />
@@ -105,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712727769874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Write printColor() method , this method printed in console Color value">
+      <option name="closed" value="true" />
+      <created>1712728644516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712728644516</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 methood completed!" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 methood completed!" />
+    <MESSAGE value="Write printColor() method , this method printed in console Color value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Write printColor() method , this method printed in console Color value" />
   </component>
 </project>
